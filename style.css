@@ -1,0 +1,16 @@
+body {
+    font-size: 15pt;
+    background-color: darkslategray;
+}
+
+p, h1 {
+  color: white;
+}
+
+li {
+  color: white;
+}
+
+footer {
+  color: white;
+}
